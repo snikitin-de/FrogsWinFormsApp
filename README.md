@@ -18,8 +18,7 @@
 
 Пример геймплея игры:
 
-<div align="center"><img src="https://github.com/snikitin-de/FrogsWinFormsApp/assets/25394427/d1a32164-50ca-4626-81b4-d9322944c8ce"></div>
-
+![Геймплей игры](https://github.com/snikitin-de/FrogsWinFormsApp/assets/25394427/d1a32164-50ca-4626-81b4-d9322944c8ce)
 
 ## Техническая часть
 

@@ -18,7 +18,7 @@
 
 Пример геймплея игры:
 
-![Лягушки](https://github.com/snikitin-de/FrogsWinFormsApp/assets/25394427/43774ea7-7629-4d21-8143-e0809b97d396)
+<div align="center"><img src="https://github.com/snikitin-de/FrogsWinFormsApp/assets/25394427/4790f62f-d804-4f96-a435-3d08bec369a0"></div>
 
 ## Техническая часть
 
@@ -30,7 +30,7 @@
 
 Структура каталога решения:
 
-![Структура каталога решения](https://github.com/snikitin-de/FrogsWinFormsApp/assets/25394427/8a62e83a-d695-4844-89b3-5eab74d667a3)
+![Структура каталога решения](https://github.com/snikitin-de/FrogsWinFormsApp/assets/25394427/19161940-ed8f-426c-bc4e-999334aefe6f)
 
 ### Работа со звуками
 

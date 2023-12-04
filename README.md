@@ -30,7 +30,7 @@
 
 Структура каталога решения:
 
-![Структура каталога решения](https://github.com/snikitin-de/FrogsWinFormsApp/assets/25394427/19161940-ed8f-426c-bc4e-999334aefe6f)
+![Структура каталога решения](https://github.com/snikitin-de/FrogsWinFormsApp/assets/25394427/7d2683b9-9796-4fb4-b745-491c09ee680a)
 
 ### Работа со звуками
 
